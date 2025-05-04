@@ -22,8 +22,8 @@ This project investigates whether these mappings offer an edge in traditional eq
 2. Apply Quantum Kernel Mapping (using Qiskit) to transform features into a higher-dimensional Hilbert space.
    
 3. Train classical machine learning models (e.g., SVM, Gradient Boosted Trees) on the quantum-transformed features.
-4. 
-5. Backtest a long-short equity portfolio strategy based on the predicted cross-sectional alphas.
+
+4. Backtest a long-short equity portfolio strategy based on the predicted cross-sectional alphas.
 
 ## Key Technologies
 1. Python (Polars, Apache Arrow, Scikit-learn, XGBoost)
